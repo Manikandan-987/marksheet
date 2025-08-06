@@ -8,7 +8,7 @@ A clean and well-structured dataset representing student marksheets across multi
 
 ---
 
-## 📁 Dataset: `marksheet_clean.csv`
+## 📁 Dataset: `marksheet_clean.csv'
 
 ### 🔍 **Overview**
 This dataset contains academic records of students including their marks in five subjects, total, percentage, result status, and grades.
@@ -24,15 +24,10 @@ This dataset contains academic records of students including their marks in five
 | 'Science_Score'   | Marks obtained by the student in Science                                                |
 | 'Attendance'      | 	Percentage of attendance (0–100%) maintained by the student                                                 
 
-
 ## 🚀 Use Cases
 
-- 📈 **Performance Analytics** — Compare average marks by department or semester  
-- 🧠 **Machine Learning** — Train models to predict grades or pass/fail status  
-- 📉 **Visualization** — Create charts to analyze performance distribution  
-- 📚 **Academic Research** — Useful for educational data mining projects  
-
----
+- 📈 **Performance Analytics**     
+- 📉 **Visualization** 
 
 ## 🛠️ Technologies Used
 
@@ -40,6 +35,3 @@ This dataset contains academic records of students including their marks in five
 - Jupyter Notebook 📓
 - CSV Format 📑
 
-
-git clone https://github.com/your-username/student-marksheet-analysis.git
-cd student-marksheet-analysis
